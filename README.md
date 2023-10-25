@@ -1,2 +1,2 @@
 # Video-game-sales-analysis
-A simple analysis of video game sales data with respective visualizations of sales across the globe.
+![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/stonks.png)
