@@ -1,5 +1,6 @@
 # Video-game-sales-analysis
-![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/dog-joystick0.gif)
+![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/stonks.png)
+
 ## Case Study
 An organization looking to develop a video game and provides said data for analytics in oreder to find and answer certain questions that provide insight however minimal for the success of the 'to-be-created' game.Some of the questions include:
   1. Which publisher and platforms incur the most sales?
@@ -20,6 +21,4 @@ https://github.com/GeofreyMacharia/Video-game-sales-analysis/assets/120192941/b5
 ## Limitation
 - Lack of sufficient data to fully uncover other factors that higher sales.
 ### Regards
-Thank you for taking the time to read my analysis.
-
-
+![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/have%20a%20cookie.jpg)
