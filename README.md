@@ -21,4 +21,4 @@ https://github.com/GeofreyMacharia/Video-game-sales-analysis/assets/120192941/b5
 ## Limitation
 - Lack of sufficient data to fully uncover other factors that higher sales.
 ### Regards
-![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/have%20a%20cookie.jpg)
+![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/have%20a%20cookiee.jpg)
