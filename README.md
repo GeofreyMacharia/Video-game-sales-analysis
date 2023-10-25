@@ -14,5 +14,6 @@ https://www.kaggle.com/datasets/gregorut/videogamesales
 Visualization of the top video game publishers based on data.
 ![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/Publishers%20and%20sales.png)
 PowerBI Version:
+..
 https://github.com/GeofreyMacharia/Video-game-sales-analysis/assets/120192941/b5524a0e-c1e3-4b40-b8e6-7105c41ca43e
 
