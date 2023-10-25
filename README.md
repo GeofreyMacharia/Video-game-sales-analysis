@@ -1,5 +1,5 @@
 # Video-game-sales-analysis
-![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/stonks.png = 300x300)
+![alt text](https://github.com/GeofreyMacharia/Video-game-sales-analysis/blob/main/Extra/stonks.png)
 
 ## Case Study
 An organization looking to develop a video game and provides said data for analytics in oreder to find and answer certain questions that provide insight however minimal for the success of the 'to-be-created' game.Some of the questions include:
